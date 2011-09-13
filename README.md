@@ -2,7 +2,7 @@
 
 # Golden Spiral Progression Utilities
 
-    gpu = require 'gpu'
+    gpu = require 'golden-progression-util'
     
     arc1 = 412
     arc2 = gpu.next_arc arc1
