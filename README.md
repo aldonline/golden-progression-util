@@ -1,0 +1,1 @@
+![Sample Golden Progression](https://github.com/aldonline/golden-progression-util/raw/master/etc/gpu_image_1.png)
